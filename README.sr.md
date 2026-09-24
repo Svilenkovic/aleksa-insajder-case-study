@@ -20,7 +20,7 @@ Brend sajt sportskog kreatora, sa stranom prenosa koju puni sa telefona i sopstv
 
 ## O projektu
 
-Aleksa Insajder je sportski kreator koji na Instagramu, TikToku i YouTube-u pravi priče o sportistima, a oko brenda postoji i Discord zajednica. Trebale su mu dve strane: jedna koja brend objasni u jednom skrolu, za ljude koji stižu preko linka sa profila, i druga koju sam puni sa telefona dok meč traje. Sve što objavljuje moralo je da se menja iz panela, bez diranja koda.
+Aleksa Insajder je sportski kreator koji na TikToku i YouTube-u pravi priče o sportistima, a oko brenda postoji i Discord zajednica. Trebale su mu dve strane: jedna koja brend objasni u jednom skrolu, za ljude koji stižu preko linka sa profila, i druga koju sam puni sa telefona dok meč traje. Sve što objavljuje moralo je da se menja iz panela, bez diranja koda.
 
 Strana prenosa prikazuje događaje koje on izdvoji, najviše deset kartica, u rasporedu koji se prilagođava njihovom broju. Dok posetilac ne klikne, u kartici stoji samo poster sa samog sajta, a provera mreže je potvrdila da pre klika ništa ne ide ka trećim stranama. Server pamti samo link, naslov i vreme dodavanja. Sam video ne preuzima, ne čuva i ne emituje dalje: to sam odlučio na početku, da server ne bi postao distributer tuđeg materijala.
 

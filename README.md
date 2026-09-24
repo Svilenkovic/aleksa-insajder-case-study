@@ -20,7 +20,7 @@ Brand site for a sports creator, with a stream page he fills from his phone and 
 
 ## About the project
 
-Aleksa Insajder is a sports creator who tells athletes' stories on Instagram, TikTok and YouTube, with a Discord community around the brand. He needed one page that explains the brand in a single scroll for people arriving from a profile link, and a second page he could fill himself, from his phone, while a match is on. Everything he publishes had to be editable from a panel, without touching the code.
+Aleksa Insajder is a sports creator who tells athletes' stories on TikTok and YouTube, with a Discord community around the brand. He needed one page that explains the brand in a single scroll for people arriving from a profile link, and a second page he could fill himself, from his phone, while a match is on. Everything he publishes had to be editable from a panel, without touching the code.
 
 The stream page shows the events he picks, up to ten cards, in a layout that adapts to how many there are. Until a visitor clicks, a card is only a poster from the site itself, and a network check confirmed that nothing is requested from third parties before that click. The server stores only a link, a title and a timestamp. It never fetches, keeps or re-streams the video itself: I decided that at the start, so the server would not end up distributing other people's material.
 
