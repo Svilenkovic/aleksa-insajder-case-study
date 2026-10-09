@@ -4,7 +4,7 @@
 
 Brand site for a sports creator, with a stream page he fills from his phone and first-party visit stats that use no cookies.
 
-**[aleksainsajder.rs](https://aleksainsajder.rs/)** · [Case study (in Serbian)](https://svilenkovic.com/radovi/aleksa-insajder) · [Srpski](README.sr.md)
+**[aleksainsajder.rs](https://aleksainsajder.rs/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/aleksa-insajder) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > Client project. The source code belongs to the client and stays in a private repository. This page describes what I built and how.
@@ -40,7 +40,7 @@ The stream page shows the events he picks, up to ten cards, in a layout that ada
 | Mobile | 93 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, September 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `Organization`, `Person`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `Organization`, `Person`.
 
 ## Screenshots
 
