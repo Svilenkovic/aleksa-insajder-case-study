@@ -37,7 +37,7 @@ The stream page shows the events he picks, up to ten cards, in a layout that ada
 
 | | Performance | Accessibility | Best practices | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Mobile | 99 | 100 | 100 | 100 |
+| Mobile | 100 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
 PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `Organization`, `Person`.
